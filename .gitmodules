@@ -1,0 +1,36 @@
+[submodule "42_libft"]
+	path = 42_libft
+	url = git@github.com:sabrinafn/42_libft.git
+[submodule "42_get_next_line"]
+	path = 42_get_next_line
+	url = git@github.com:sabrinafn/42_get_next_line.git
+[submodule "42_ft_printf"]
+	path = 42_ft_printf
+	url = git@github.com:sabrinafn/42_ft_printf.git
+[submodule "42_push_swap"]
+	path = 42_push_swap
+	url = git@github.com:sabrinafn/42_push_swap.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = git@github.com:sabrinafn/42_minitalk.git
+[submodule "42_so_long"]
+	path = 42_so_long
+	url = git@github.com:sabrinafn/42_so_long.git
+[submodule "42_minishelll"]
+	path = 42_minishelll
+	url = git@github.com:sabrinafn/42_minishelll.git
+[submodule "42_philo"]
+	path = 42_philo
+	url = git@github.com:sabrinafn/42_philo.git
+[submodule "42_cub3D"]
+	path = 42_cub3D
+	url = git@github.com:sabrinafn/42_cub3D.git
+[submodule "42_CPP"]
+	path = 42_CPP
+	url = git@github.com:sabrinafn/42_CPP.git
+[submodule "42_ft_irc"]
+	path = 42_ft_irc
+	url = git@github.com:sabrinafn/42_ft_irc.git
+[submodule "42_inception"]
+	path = 42_inception
+	url = git@github.com:sabrinafn/42_inception.git
