@@ -1,23 +1,30 @@
-<h1 align="center">42cursus</h1>
 
 <p align="center">
-  <b><i>Projects developed at <a href="https://www.42sp.org.br/">42 São Paulo</a> and <a href="https://42london.com/">42 London</a> programming schools.</i></b><br>
-  Start: Oct/2023 - the first 42 class of London! <br>
-  End: -
+  <a href="https://www.42network.org/">
+  <img src="assets/header42.png" alt="network website" height="400/>
+    </a>
+</p>
+<br>
+<p align="center">
+  <b><i>Projects developed at 
+    <a href="https://www.42sp.org.br/">42 São Paulo</a>
+    and 
+    <a href="https://42london.com/">42 London</a> programming schools.</i></b><br>
+</p>
+
+<p align="center">
+   <a href="https://www.42sp.org.br/">
+  <img src="assets/london.png" alt="london campus" width="80"/>
+    </a>
+  <a href="https://42london.com/">
+  <img src="assets/saopaulo.png" alt="sao paulo campus" width="80"/>
+    </a>
 </p>
 
 <h2>About 42</h2>
 
 <p>
 42 is a global network of innovative programming schools with a project-based and peer-to-peer learning model, offering free education with no teachers, no formal classes, and no prior degree requirements. Students learn through collaboration, solving real-world problems, and developing both technical and soft skills while advancing at their own pace. Founded in Paris in 2013, 42 has expanded worldwide and continues to grow as one of the most disruptive educational models in software engineering. The network is currently led by CEO <b>Sophie Viger</b>, who has been a driving force in making the program more inclusive and accessible to people from diverse backgrounds.
-</p>
-<p align="center">
-   <a href="https://www.42sp.org.br/">
-  <img src="assets/london.png" alt="london campus" />
-    </a>
-  <a href="https://42london.com/">
-  <img src="assets/saopaulo.png" alt="sao paulo campus" />
-    </a>
 </p>
 
 <h2>Skills developed at 42</h2>
