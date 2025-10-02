@@ -13,10 +13,10 @@
 </p>
 <p align="center">
    <a href="https://www.42sp.org.br/">
-  <img src="london.png" alt="london campus" />
+  <img src="assets/london.png" alt="london campus" />
     </a>
   <a href="https://42london.com/">
-  <img src="saopaulo.png" alt="sao paulo campus" />
+  <img src="assets/saopaulo.png" alt="sao paulo campus" />
     </a>
 </p>
 
@@ -35,7 +35,6 @@ C • C++ • Makefile • Shell scripting • Git • SQL • Networks • Dock
   <b>Problem-Solving & Critical Thinking:</b> The project-based approach encourages creative thinking, debugging, and developing efficient solutions to complex real-world problems.
 </p>
 
-
 <h2>Curriculum</h2>
 
 <p>
@@ -43,7 +42,7 @@ C • C++ • Makefile • Shell scripting • Git • SQL • Networks • Dock
 </p>
 
 <p align="center">
-  <img src="holygraph.png" alt="holygraph" />
+  <img src="assets/holygraph.png" alt="holygraph" />
 </p>
 
 <table align="center">
